@@ -18,7 +18,7 @@ This repository contains an E-Commerce app developed using Flutter and GetX. The
       <tr>
         <td><img src="https://github.com/user-attachments/assets/3cea6b2a-8c14-4c00-aed6-926a0a1f0d3f" alt="Image 2" width="700" height="auto"></td>
         <td><img src="https://github.com/user-attachments/assets/43d857ca-9fbf-4c39-baf8-0dad5a283ea1" alt="Image 2" width="700" height="auto"></td>
-      <td><video src="https://github.com/user-attachments/assets/77d75b91-ff63-48a1-8bfa-4a4fecb45f13" width="320" height="auto"></video>
+      <td><video src="https://github.com/user-attachments/assets/b72d4162-253d-4cc7-9fa6-393732a05c32" width="320" height="auto"></video>
       </tr>
       <tr>
         <td><img src="https://github.com/user-attachments/assets/4a4233d5-6b9d-45fe-97c4-3f8a319b7b3f" alt="Image 2" width="700" height="auto"></td>
